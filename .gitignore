@@ -1,0 +1,9 @@
+# macOS Finder metadata
+.DS_Store
+
+# Python working files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
