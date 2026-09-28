@@ -143,7 +143,3 @@ Before the data is accepted, the generator will verify:
 - actual delivery date, when present, is not before purchase date;
 - inventory quantity values are non-negative; and
 - inventory rows follow the opening + received − sold = closing relationship before intentional quality issues are injected.
-
-## Next step
-
-Implement these rules in `scripts/generate_dataset.py`, generate the raw CSVs, inspect the outputs, and then commit the generator and data as separate meaningful milestones.
