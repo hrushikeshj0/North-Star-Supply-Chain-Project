@@ -1,0 +1,21 @@
+supplier_id,supplier_name,supplier_location,standard_lead_time_days
+S001,Supplier 001,Georgia,6
+S002,Supplier 002,Illinois,10
+S003,Supplier 003,California,5
+S004,Supplier 004,California,5
+S005,Supplier 005,California,12
+S006,Supplier 006,Ohio,6
+S007,Supplier 007,Ohio,3
+S008,Supplier 008,Florida,6
+S009,Supplier 009,Texas,9
+S010,Supplier 010,Georgia,4
+S011,Supplier 011,Texas,18
+S012,Supplier 012,Texas,9
+S013,Supplier 013,Illinois,4
+S014,Supplier 014,Georgia,20
+S015,Supplier 015,Illinois,5
+S016,Supplier 016,Florida,3
+S017,Supplier 017,Ohio,5
+S018,Supplier 018,Texas,18
+S019,Supplier 019,New Jersey,11
+S020,Supplier 020,Georgia,15
