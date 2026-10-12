@@ -1,0 +1,121 @@
+product_id,product_name,category_name,ending_stock,avg_30d_daily_demand,recent_inventory_days,supplier_id,supplier_name,standard_lead_time_days,coverage_to_lead_time_ratio,coverage_quartile,historical_stockout_rate_pct,stockout_quartile,moq,moq_demand_days,ending_inventory_value,ending_holding_cost,review_category
+P001,Product 001,Home Appliances,8423,27.23,309.29,S020,Supplier 020,15,20.62,1,22.55,3,200,7.34,1715259.72,35797.75,Lower Relative Priority
+P002,Product 002,Automotive,3794,18.90,200.74,S012,Supplier 012,9,22.30,1,16.88,2,100,5.29,351286.46,7208.60,Lower Relative Priority
+P003,Product 003,Sports & Fitness,819,1.00,819.00,S005,Supplier 005,12,68.25,3,0.00,1,25,25.00,167174.28,6584.76,Elevated Excess Review
+P004,Product 004,Home Appliances,3909,14.93,261.76,S014,Supplier 014,20,13.09,1,18.27,2,50,3.35,32718.33,977.25,Lower Relative Priority
+P005,Product 005,Office Supplies,3080,15.43,199.57,S016,Supplier 016,3,66.52,3,23.88,3,25,1.62,263863.60,8932.00,Elevated Excess Review
+P006,Product 006,Home Appliances,4276,20.37,209.95,S009,Supplier 009,9,23.33,1,25.43,3,50,2.46,381932.32,11117.60,Lower Relative Priority
+P007,Product 007,Furniture,1898,6.80,279.12,S013,Supplier 013,4,69.78,3,32.51,4,10,1.47,302882.84,12697.62,Elevated Excess Review
+P008,Product 008,Electronics,3788,5.47,692.92,S009,Supplier 009,9,76.99,3,6.60,1,200,36.59,499296.28,23220.44,Elevated Excess Review
+P009,Product 009,Office Supplies,2523,4.23,595.99,S013,Supplier 013,4,149.00,4,15.19,1,100,23.62,554757.24,17988.99,High Excess Review
+P010,Product 010,Home Appliances,5361,20.83,257.33,S011,Supplier 011,18,14.30,1,28.23,4,50,2.40,365084.10,12062.25,Lower Relative Priority
+P011,Product 011,Electronics,828,3.70,223.78,S002,Supplier 002,10,22.38,1,19.67,2,25,6.76,127230.48,3668.04,Lower Relative Priority
+P012,Product 012,Pet Supplies,1391,7.83,177.58,S001,Supplier 001,6,29.60,2,21.17,2,50,6.38,194865.19,5104.97,Lower Relative Priority
+P013,Product 013,Electronics,15479,52.63,294.09,S007,Supplier 007,3,98.03,4,32.25,4,25,0.48,3651186.52,181878.25,High Excess + Historical Stockout Review
+P014,Product 014,Automotive,6424,38.20,168.17,S007,Supplier 007,3,56.06,3,20.70,2,200,5.24,197345.28,5845.84,Elevated Excess Review
+P015,Product 015,Furniture,993,3.07,323.80,S005,Supplier 005,12,26.98,2,11.93,1,10,3.26,138791.61,3247.11,Lower Relative Priority
+P016,Product 016,Pet Supplies,1832,4.80,381.67,S016,Supplier 016,3,127.22,4,28.32,4,200,41.67,266226.24,5038.00,High Excess + Historical Stockout Review
+P017,Product 017,Sports & Fitness,6928,24.40,283.93,S003,Supplier 003,5,56.79,3,17.36,2,200,8.20,524033.92,10461.28,Elevated Excess Review
+P018,Product 018,Electronics,2231,3.97,562.43,S017,Supplier 017,5,112.49,4,27.03,3,200,50.42,49215.86,847.78,High Excess Review
+P019,Product 019,Kitchen,1100,5.93,185.39,S011,Supplier 011,18,10.30,1,19.49,2,25,4.21,70785.00,2970.00,Lower Relative Priority
+P020,Product 020,Automotive,3045,16.43,185.29,S007,Supplier 007,3,61.76,3,13.63,1,50,3.04,399412.65,11875.50,Elevated Excess Review
+P021,Product 021,Pet Supplies,4552,13.53,336.36,S020,Supplier 020,15,22.42,1,14.63,1,200,14.78,497169.44,7328.72,Lower Relative Priority
+P022,Product 022,Sports & Fitness,737,3.43,214.66,S003,Supplier 003,5,42.93,2,25.24,3,10,2.91,114227.63,1702.47,Lower Relative Priority
+P023,Product 023,Outdoor,5109,20.93,244.06,S020,Supplier 020,15,16.27,1,21.83,3,25,1.19,1228101.42,31471.44,Lower Relative Priority
+P024,Product 024,Sports & Fitness,6017,22.00,273.50,S002,Supplier 002,10,27.35,2,29.68,4,50,2.27,644180.02,12876.38,Lower Relative Priority
+P025,Product 025,Kitchen,1835,4.40,417.05,S008,Supplier 008,6,69.51,3,15.26,1,200,45.45,138138.80,1596.45,Elevated Excess Review
+P026,Product 026,Outdoor,6977,23.20,300.73,S002,Supplier 002,10,30.07,2,15.61,1,200,8.62,496622.86,11930.67,Lower Relative Priority
+P027,Product 027,Personal Care,5029,16.17,311.07,S003,Supplier 003,5,62.21,3,22.58,3,25,1.55,971653.09,35605.32,Elevated Excess Review
+P028,Product 028,Home Appliances,3373,14.97,225.37,S014,Supplier 014,20,11.27,1,21.11,2,100,6.68,106047.12,4081.33,Lower Relative Priority
+P029,Product 029,Home Appliances,2538,10.30,246.41,S012,Supplier 012,9,27.38,2,21.87,3,25,2.43,506610.18,11674.80,Lower Relative Priority
+P030,Product 030,Automotive,3698,12.23,302.29,S007,Supplier 007,3,100.76,4,30.19,4,50,4.09,678915.82,16899.86,High Excess + Historical Stockout Review
+P031,Product 031,Automotive,9220,25.07,367.82,S013,Supplier 013,4,91.95,4,25.19,3,100,3.99,1531995.20,66015.20,High Excess Review
+P032,Product 032,Pet Supplies,3890,18.17,214.13,S008,Supplier 008,6,35.69,2,16.50,1,100,5.50,81028.70,1594.90,Lower Relative Priority
+P033,Product 033,Pet Supplies,4244,15.07,281.68,S019,Supplier 019,11,25.61,1,29.63,4,100,6.64,856227.00,26864.52,Lower Relative Priority
+P034,Product 034,Outdoor,4071,11.87,343.06,S011,Supplier 011,18,19.06,1,27.18,3,50,4.21,671999.97,17179.62,Lower Relative Priority
+P035,Product 035,Outdoor,10158,53.60,189.51,S017,Supplier 017,5,37.90,2,31.06,4,25,0.47,2224805.16,108487.44,Lower Relative Priority
+P036,Product 036,Pet Supplies,11960,52.67,227.09,S003,Supplier 003,5,45.42,2,16.96,2,50,0.95,559130.00,25355.20,Lower Relative Priority
+P037,Product 037,Furniture,735,0.60,1225.00,S005,Supplier 005,12,102.08,4,0.00,1,10,16.67,163302.30,7519.05,High Excess Review
+P038,Product 038,Electronics,17461,55.47,314.80,S018,Supplier 018,18,17.49,1,27.08,3,200,3.61,2180529.68,78399.89,Lower Relative Priority
+P039,Product 039,Personal Care,12466,49.37,252.52,S008,Supplier 008,6,42.09,2,20.77,2,25,0.51,3103161.38,79907.06,Lower Relative Priority
+P040,Product 040,Personal Care,2677,1.87,1434.08,S008,Supplier 008,6,239.01,4,24.00,3,200,107.14,534382.74,20425.51,High Excess Review
+P041,Product 041,Automotive,2991,11.40,262.37,S004,Supplier 004,5,52.47,2,14.57,1,25,2.19,310705.08,3349.92,Lower Relative Priority
+P042,Product 042,Sports & Fitness,11277,50.33,224.05,S013,Supplier 013,4,56.01,3,14.76,1,50,0.99,805854.42,25824.33,Elevated Excess Review
+P043,Product 043,Personal Care,5563,24.53,226.75,S020,Supplier 020,15,15.12,1,25.89,3,200,8.15,65087.10,1947.05,Lower Relative Priority
+P044,Product 044,Automotive,2719,14.80,183.72,S020,Supplier 020,15,12.25,1,24.48,3,10,0.68,476966.98,21289.77,Lower Relative Priority
+P045,Product 045,Personal Care,3434,14.33,239.58,S019,Supplier 019,11,21.78,1,20.34,2,100,6.98,700982.42,17616.42,Lower Relative Priority
+P046,Product 046,Office Supplies,3566,19.00,187.68,S016,Supplier 016,3,62.56,3,21.14,2,50,2.63,232360.56,7595.58,Elevated Excess Review
+P047,Product 047,Kitchen,4874,17.77,274.33,S014,Supplier 014,20,13.72,1,17.70,2,100,5.63,496124.46,22371.66,Lower Relative Priority
+P048,Product 048,Kitchen,1851,5.30,349.25,S007,Supplier 007,3,116.42,4,21.39,2,50,9.43,358760.82,13845.48,High Excess Review
+P049,Product 049,Outdoor,3033,11.77,257.76,S006,Supplier 006,6,42.96,2,32.03,4,10,0.85,418523.67,10463.85,Lower Relative Priority
+P050,Product 050,Sports & Fitness,9411,49.90,188.60,S020,Supplier 020,15,12.57,1,28.12,4,50,1.00,2128768.20,106438.41,Lower Relative Priority
+P051,Product 051,Furniture,6212,18.90,328.68,S017,Supplier 017,5,65.74,3,31.01,4,200,10.58,71375.88,869.68,Elevated Excess Review
+P052,Product 052,Sports & Fitness,14204,46.73,303.94,S007,Supplier 007,3,101.31,4,20.56,2,200,4.28,675826.32,28408.00,High Excess Review
+P053,Product 053,Sports & Fitness,6078,17.37,349.98,S005,Supplier 005,12,29.17,2,14.26,1,200,11.52,875232.00,28748.94,Lower Relative Priority
+P054,Product 054,Office Supplies,13371,37.23,359.11,S010,Supplier 010,4,89.78,4,15.96,1,100,2.69,3147132.27,51344.64,High Excess Review
+P055,Product 055,Kitchen,2939,16.20,181.42,S008,Supplier 008,6,30.24,2,21.79,3,10,0.62,428006.57,16517.18,Lower Relative Priority
+P056,Product 056,Furniture,4224,16.03,263.45,S015,Supplier 015,5,52.69,3,18.86,2,200,12.47,180153.60,6716.16,Elevated Excess Review
+P057,Product 057,Sports & Fitness,2734,3.90,701.03,S016,Supplier 016,3,233.68,4,24.95,3,200,51.28,279551.50,4729.82,High Excess Review
+P058,Product 058,Office Supplies,3000,15.73,190.68,S016,Supplier 016,3,63.56,3,18.62,2,50,3.18,370110.00,16050.00,Elevated Excess Review
+P059,Product 059,Pet Supplies,2213,12.73,173.80,S011,Supplier 011,18,9.66,1,27.96,4,10,0.79,190318.00,8475.79,Lower Relative Priority
+P060,Product 060,Electronics,6881,21.27,323.56,S007,Supplier 007,3,107.85,4,26.48,3,50,2.35,582270.22,7637.91,High Excess Review
+P061,Product 061,Automotive,9943,23.33,426.13,S005,Supplier 005,12,35.51,2,16.70,2,200,8.57,1466095.35,20979.73,Lower Relative Priority
+P062,Product 062,Outdoor,14287,48.37,295.39,S002,Supplier 002,10,29.54,2,17.45,2,50,1.03,2849970.76,45289.79,Lower Relative Priority
+P063,Product 063,Outdoor,6117,17.50,349.54,S012,Supplier 012,9,38.84,2,11.86,1,200,11.43,909353.22,18656.85,Lower Relative Priority
+P064,Product 064,Kitchen,6261,27.67,226.30,S006,Supplier 006,6,37.72,2,18.14,2,10,0.36,1168866.09,55660.29,Lower Relative Priority
+P065,Product 065,Pet Supplies,1872,4.07,460.32,S017,Supplier 017,5,92.06,4,10.55,1,10,2.46,350812.80,13384.80,High Excess Review
+P066,Product 066,Sports & Fitness,1774,10.70,165.79,S003,Supplier 003,5,33.16,2,27.84,4,10,0.93,228100.92,7841.08,Lower Relative Priority
+P067,Product 067,Personal Care,9028,42.03,214.78,S016,Supplier 016,3,71.59,3,19.37,2,200,4.76,1759105.80,62925.16,Elevated Excess Review
+P068,Product 068,Office Supplies,5895,15.97,369.21,S017,Supplier 017,5,73.84,3,20.63,2,100,6.26,917203.05,12556.35,Elevated Excess Review
+P069,Product 069,Office Supplies,8100,41.13,196.92,S017,Supplier 017,5,39.38,2,27.20,4,100,2.43,571455.00,13527.00,Lower Relative Priority
+P070,Product 070,Home Appliances,2487,9.93,250.37,S013,Supplier 013,4,62.59,3,33.75,4,50,5.03,581808.78,9475.47,Elevated Excess Review
+P071,Product 071,Automotive,4130,13.87,297.84,S004,Supplier 004,5,59.57,3,15.24,1,200,14.42,583527.70,12596.50,Elevated Excess Review
+P072,Product 072,Sports & Fitness,3220,0.00,NULL,S009,Supplier 009,9,NULL,NULL,0.00,1,200,NULL,477300.60,11398.80,Zero-Demand Review
+P073,Product 073,Kitchen,2431,2.67,911.61,S010,Supplier 010,4,227.90,4,19.17,2,200,75.00,322520.77,13540.67,High Excess Review
+P074,Product 074,Office Supplies,862,0.27,3232.10,S016,Supplier 016,3,1077.37,4,0.55,1,50,187.48,138454.44,2499.80,High Excess Review
+P075,Product 075,Automotive,1513,3.73,405.27,S018,Supplier 018,18,22.52,1,33.78,4,50,13.39,8866.18,242.08,Lower Relative Priority
+P076,Product 076,Pet Supplies,1192,4.20,283.81,S014,Supplier 014,20,14.19,1,27.07,3,10,2.38,89686.08,2395.92,Lower Relative Priority
+P077,Product 077,Office Supplies,5694,23.90,238.24,S008,Supplier 008,6,39.71,2,22.81,3,50,2.09,1402830.78,24370.32,Lower Relative Priority
+P078,Product 078,Home Appliances,7087,21.17,334.82,S018,Supplier 018,18,18.60,1,33.05,4,200,9.45,649948.77,23457.97,Lower Relative Priority
+P079,Product 079,Pet Supplies,3901,11.50,339.22,S004,Supplier 004,5,67.84,3,13.35,1,200,17.39,42715.95,1170.30,Elevated Excess Review
+P080,Product 080,Office Supplies,2169,11.43,189.71,S003,Supplier 003,5,37.94,2,14.00,1,25,2.19,205295.85,7895.16,Lower Relative Priority
+P081,Product 081,Pet Supplies,15936,55.77,285.76,S008,Supplier 008,6,47.63,2,26.15,3,10,0.18,3973800.96,168921.60,Lower Relative Priority
+P082,Product 082,Kitchen,6384,20.67,308.90,S016,Supplier 016,3,102.97,4,30.21,4,200,9.68,1190041.44,49412.16,High Excess + Historical Stockout Review
+P083,Product 083,Sports & Fitness,12575,40.37,311.52,S005,Supplier 005,12,25.96,2,25.80,3,10,0.25,2252811.25,59982.75,Lower Relative Priority
+P084,Product 084,Pet Supplies,6781,19.43,348.94,S015,Supplier 015,5,69.79,3,24.04,3,50,2.57,864035.02,9289.97,Elevated Excess Review
+P085,Product 085,Automotive,10450,43.03,242.84,S017,Supplier 017,5,48.57,2,22.77,3,50,1.16,905179.00,15988.50,Lower Relative Priority
+P086,Product 086,Home Appliances,5622,18.60,302.26,S018,Supplier 018,18,16.79,1,32.97,4,200,10.75,951411.06,21194.94,Lower Relative Priority
+P087,Product 087,Pet Supplies,6036,21.10,286.07,S005,Supplier 005,12,23.84,1,12.59,1,100,4.74,851257.08,18892.68,Lower Relative Priority
+P088,Product 088,Furniture,3757,15.10,248.81,S004,Supplier 004,5,49.76,2,27.39,4,100,6.62,137280.78,1615.51,Lower Relative Priority
+P089,Product 089,Electronics,3012,12.50,240.96,S007,Supplier 007,3,80.32,4,23.92,3,100,8.00,636827.16,11596.20,High Excess Review
+P090,Product 090,Office Supplies,5142,15.73,326.82,S016,Supplier 016,3,108.94,4,10.01,1,50,3.18,25864.26,308.52,High Excess Review
+P091,Product 091,Pet Supplies,3865,13.83,279.40,S013,Supplier 013,4,69.85,3,14.61,1,50,3.61,33780.10,1004.90,Elevated Excess Review
+P092,Product 092,Office Supplies,1580,4.63,341.01,S010,Supplier 010,4,85.25,4,25.21,3,10,2.16,348342.60,7204.80,High Excess Review
+P093,Product 093,Office Supplies,13444,42.03,319.84,S016,Supplier 016,3,106.61,4,34.04,4,25,0.59,2508919.28,35626.60,High Excess + Historical Stockout Review
+P094,Product 094,Automotive,6198,18.93,327.36,S008,Supplier 008,6,54.56,3,18.18,2,100,5.28,1502953.02,48282.42,Elevated Excess Review
+P095,Product 095,Sports & Fitness,8689,35.67,243.62,S013,Supplier 013,4,60.90,3,24.01,3,200,5.61,1518402.75,21027.38,Elevated Excess Review
+P096,Product 096,Pet Supplies,4550,11.70,388.89,S017,Supplier 017,5,77.78,3,19.62,2,200,17.09,853762.00,29666.00,Elevated Excess Review
+P097,Product 097,Pet Supplies,4955,13.03,380.18,S018,Supplier 018,18,21.12,1,35.95,4,200,15.35,804592.90,14319.95,Lower Relative Priority
+P098,Product 098,Home Appliances,2670,3.17,843.15,S007,Supplier 007,3,281.05,4,21.97,3,200,63.16,437479.50,5820.60,High Excess Review
+P099,Product 099,Pet Supplies,3589,9.50,377.79,S017,Supplier 017,5,75.56,3,15.21,1,100,10.53,481320.79,5419.39,Elevated Excess Review
+P100,Product 100,Pet Supplies,4612,12.70,363.15,S015,Supplier 015,5,72.63,3,15.36,1,200,15.75,259701.72,8901.16,Elevated Excess Review
+P101,Product 101,Pet Supplies,1173,0.67,1759.41,S020,Supplier 020,15,117.29,4,22.15,3,50,75.00,10416.24,304.98,High Excess Review
+P102,Product 102,Pet Supplies,15943,35.77,445.75,S020,Supplier 020,15,29.72,2,38.25,4,100,2.80,3454210.38,165647.77,Lower Relative Priority
+P103,Product 103,Home Appliances,2959,11.87,249.35,S018,Supplier 018,18,13.85,1,28.04,4,25,2.11,541319.46,19144.73,Lower Relative Priority
+P104,Product 104,Kitchen,6439,15.17,424.55,S010,Supplier 010,4,106.14,4,41.70,4,50,3.30,1064624.26,17964.81,High Excess + Historical Stockout Review
+P105,Product 105,Office Supplies,3638,13.40,271.49,S008,Supplier 008,6,45.25,2,24.78,3,50,3.73,839941.44,20663.84,Lower Relative Priority
+P106,Product 106,Kitchen,4018,19.33,207.83,S007,Supplier 007,3,69.28,3,12.35,1,200,10.34,197283.80,3455.48,Elevated Excess Review
+P107,Product 107,Outdoor,2339,12.20,191.72,S016,Supplier 016,3,63.91,3,18.51,2,10,0.82,157157.41,2315.61,Elevated Excess Review
+P108,Product 108,Furniture,6015,16.97,354.52,S014,Supplier 014,20,17.73,1,29.48,4,200,11.79,410644.05,20090.10,Lower Relative Priority
+P109,Product 109,Pet Supplies,2610,11.73,222.44,S015,Supplier 015,5,44.49,2,16.36,1,10,0.85,85999.50,3601.80,Lower Relative Priority
+P110,Product 110,Home Appliances,4348,21.83,199.15,S017,Supplier 017,5,39.83,2,29.33,4,10,0.46,266054.12,9130.80,Lower Relative Priority
+P111,Product 111,Automotive,730,0.23,3129.02,S011,Supplier 011,18,173.83,4,6.71,1,10,42.86,38266.60,452.60,High Excess Review
+P112,Product 112,Pet Supplies,4584,9.20,498.26,S015,Supplier 015,5,99.65,4,18.64,2,200,21.74,158698.08,1833.60,High Excess Review
+P113,Product 113,Automotive,3863,13.70,281.97,S010,Supplier 010,4,70.49,3,31.84,4,50,3.65,881188.93,23448.41,Elevated Excess Review
+P114,Product 114,Electronics,13885,55.67,249.43,S016,Supplier 016,3,83.14,4,16.10,1,200,3.59,89558.25,3610.10,High Excess Review
+P115,Product 115,Home Appliances,5584,18.70,298.61,S003,Supplier 003,5,59.72,3,37.65,4,50,2.67,351345.28,16975.36,Elevated Excess Review
+P116,Product 116,Office Supplies,4894,15.80,309.75,S020,Supplier 020,15,20.65,1,20.60,2,100,6.33,63670.94,1712.90,Lower Relative Priority
+P117,Product 117,Automotive,10114,42.60,237.42,S016,Supplier 016,3,79.14,4,32.78,4,25,0.59,2188163.90,98105.80,High Excess + Historical Stockout Review
+P118,Product 118,Personal Care,10140,26.93,376.49,S014,Supplier 014,20,18.82,1,17.81,2,200,7.43,1744688.40,43095.00,Lower Relative Priority
+P119,Product 119,Electronics,3908,15.40,253.77,S007,Supplier 007,3,84.59,4,19.93,2,10,0.65,716297.32,23291.68,High Excess Review
+P120,Product 120,Pet Supplies,5560,34.87,159.46,S002,Supplier 002,10,15.95,1,26.89,3,25,0.72,31080.40,556.00,Lower Relative Priority

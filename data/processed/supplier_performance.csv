@@ -1,0 +1,21 @@
+supplier_id,supplier_name,supplier_location,standard_lead_time_days,total_purchase_orders,total_units_purchased,total_purchase_spend,on_time_deliveries,late_deliveries,on_time_delivery_pct,avg_actual_lead_time_days,avg_late_delivery_days,total_products_supplied,primary_products,sole_source_products
+S001,Supplier 001,Georgia,6,41,24480,3932203.10,38,3,92.68,6.17,2.33,5,1,1
+S002,Supplier 002,Illinois,10,113,79250,9307629.00,100,13,88.50,10.29,2.54,12,5,2
+S003,Supplier 003,California,5,112,93190,11370281.60,100,12,89.29,5.34,3.17,13,7,2
+S004,Supplier 004,California,5,62,31575,1718563.75,20,42,32.26,8.08,4.55,6,4,2
+S005,Supplier 005,California,12,109,54215,9051145.25,98,11,89.91,12.35,3.45,14,7,0
+S006,Supplier 006,Ohio,6,27,11770,1675111.90,9,18,33.33,8.56,3.83,4,2,1
+S007,Supplier 007,Ohio,3,154,97925,11529772.00,141,13,91.56,3.34,4.08,14,11,5
+S008,Supplier 008,Florida,6,134,89175,16991168.00,119,15,88.81,6.41,3.67,14,9,2
+S009,Supplier 009,Texas,9,54,42675,6804907.25,50,4,92.59,9.13,1.75,6,3,0
+S010,Supplier 010,Georgia,4,107,61170,10788555.70,93,14,86.92,4.38,2.93,10,5,3
+S011,Supplier 011,Texas,18,71,24005,1996785.40,31,40,43.66,20.39,4.25,5,5,4
+S012,Supplier 012,Texas,9,110,58335,9203657.90,81,29,73.64,10.15,4.34,14,3,2
+S013,Supplier 013,Illinois,4,83,54580,6047778.20,57,26,68.67,5.06,3.38,10,7,1
+S014,Supplier 014,Georgia,20,72,38405,5058997.95,66,6,91.67,20.28,3.33,11,6,0
+S015,Supplier 015,Illinois,5,96,69285,9773265.35,85,11,88.54,5.38,3.27,13,5,1
+S016,Supplier 016,Florida,3,218,149060,16437877.15,163,55,74.77,3.74,2.95,21,13,6
+S017,Supplier 017,Ohio,5,159,110175,13622337.25,137,22,86.16,5.38,2.73,17,10,3
+S018,Supplier 018,Texas,18,135,95650,11483156.25,126,9,93.33,18.15,2.22,16,6,2
+S019,Supplier 019,New Jersey,11,67,50970,7879594.90,62,5,92.54,11.16,2.20,7,2,1
+S020,Supplier 020,Georgia,15,107,88950,13220456.25,72,35,67.29,16.16,3.54,12,9,2

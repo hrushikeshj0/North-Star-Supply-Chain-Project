@@ -1,0 +1,6 @@
+warehouse_id,warehouse_name,total_demand,total_units_sold,total_stockout_units,fulfillment_rate_pct,stockout_rate_pct
+W001,San Francisco DC,176392,130480,45912,73.97,26.03
+W002,Los Angeles DC,216791,172401,44390,79.52,20.48
+W003,Dallas DC,212189,164981,47208,77.75,22.25
+W004,Chicago DC,199017,152808,46209,76.78,23.22
+W005,New York DC,181824,136692,45132,75.18,24.82
